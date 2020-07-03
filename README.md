@@ -64,5 +64,5 @@ This web app is built with the following:
 **Frontend Installation:**
 
 - Clone this repo to your local machine `git clone <this-repo-url>`
-- Ensure _transit-backend_ is running locally on `http://localhost:3000/`
+- Ensure _mySudokuApp-backend_ is running locally on `http://localhost:3000/`
 - run `open index.html`
